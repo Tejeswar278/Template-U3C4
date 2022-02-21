@@ -1,0 +1,23 @@
+#container {
+  display: flex;
+}
+#sidebar {
+  flex: 2;
+  border: 1px solid black;
+}
+#main {
+  flex: 8;
+  border: 1px solid black;
+}
+.newsflex {
+  display: flex;
+}
+.image {
+  border: 1px solid black;
+}
+.title {
+  border: 1px solid black;
+}
+.discription {
+  border: 1px solid black;
+}
